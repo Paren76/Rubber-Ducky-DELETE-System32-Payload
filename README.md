@@ -1,0 +1,1 @@
+# Rubber-Ducky-DELETE-System32-Payload
